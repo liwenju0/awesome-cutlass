@@ -11,6 +11,7 @@ A summary of excellent learning materials about cutlass. contributions are welco
 | 5 | [CUTLASS Python Interface](https://github.com/NVIDIA/cutlass/tree/master/python) | CUTLASS的Python接口,方便Python开发者使用CUTLASS功能 |
 | 6 | [GPU MODE FlashAttention3](https://www.bilibili.com/video/BV1QZ421N7pT?p=38&vd_source=6d8f39c6e53970f392352227e8a4b6a1) | FlashAttention3 作者讲解源码，涉及cutlass使用 |
 | 7 | [Cute核心概念讲解](https://www.bilibili.com/video/BV1QZ421N7pT?p=15&vd_source=6d8f39c6e53970f392352227e8a4b6a1) | 讲解cute中的layout代数核心知识 |
+| 8 | [Cute教程](https://zhuanlan.zhihu.com/p/662089556) | 知乎reed大佬的cute教程，个人认为，强官方文档十倍 |
 
 
 
